@@ -21,3 +21,11 @@ spring:
     properties:
       hibernate:
         enable_lazy_load_no_trans: true
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 353930203289-clf9o86au4r4q7jkii425u1jtl7k9g9j.apps.googleusercontent.com
+            client-secret: tnT5UJuQyBvjFP6Hdut0sU4f
+
